@@ -1,6 +1,6 @@
 #!/bin/bash -xve
-#Written by owstudent
 
+77056574ff83173ce8274c517c093097eda882a3
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
